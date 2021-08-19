@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css2?family=ABeeZee&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #252a30;
+    color: white;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    overflow: hidden;
+}
+
+p{
+    font-family: 'ABeeZee', sans-serif;
+}
+
+#webgl{
+    width: 100vw;
+    height: 100vh;
+}
+
+/*# sourceMappingURL=main.css.map*/
