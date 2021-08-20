@@ -1,0 +1,11 @@
+li{
+    padding: 0.5rem 0;
+}
+
+a{
+    padding: 0.2rem;
+}
+a:hover{
+    background-color: black;
+    color: aqua;
+}
